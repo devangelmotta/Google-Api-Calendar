@@ -1,0 +1,5 @@
+.hoverIcon{
+	::hover {
+  color: blue;
+}
+}
